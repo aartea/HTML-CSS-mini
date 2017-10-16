@@ -1,3 +1,7 @@
+h1{
+	text-align: center;
+}
+
 .flex{
 	display: flex;
 	flex-direction: row;
@@ -6,4 +10,8 @@
 	border: solid;
 }
 
-test test test
+.box{
+	width: 400px;
+	margin: auto;
+	border: solid;
+}
