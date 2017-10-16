@@ -1,0 +1,9 @@
+.flex{
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	width: auto;
+	border: solid;
+}
+
+test test test
